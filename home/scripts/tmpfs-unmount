@@ -1,0 +1,6 @@
+sudo umount /dev/sdb1
+echo "/dev/sdb1 unmounted from /var/tmp/portage"
+sudo umount /dev/sdb2
+echo "/dev/sdb2 unmounted from /var/cache"
+sudo umount /dev/sdb3
+echo "/dev/sdb3 umounted from /usr/src"

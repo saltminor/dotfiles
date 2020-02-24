@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+# echo lsblk /dev/sdb
+# if /dev/sdb not found
+#	echo no device found
+#	exit
+
+# if /dev/sdb found
+#   if mounted or unmounted:
+#	prompt to mount or unmount
+
+#   else
+#	exit
+
+sudo mount /dev/sdb1 /var/tmp/portage
+echo "mounted sdb1 > /var/tmp/portage"
+
+sudo mount /dev/sdb2 /var/cache
+echo "mounted sdb2 > /var/cache"
+
+sudo mount /dev/sdb3 /usr/src
+echo "mounted sdb3 > /usr/src"

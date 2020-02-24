@@ -1,0 +1,4 @@
+configuration {
+ modi: "run,combi";
+ theme: "~/.cache/wal/colors-rofi-dark.rasi";
+}
