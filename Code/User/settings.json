@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Wal Bordered",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'ProFontWindows Nerd Font Mono'",
+    "telemetry.telemetryLevel": "off",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "glassit.alpha": 40,
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "none",
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false
+}

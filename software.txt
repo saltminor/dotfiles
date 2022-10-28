@@ -1,0 +1,25 @@
+refind
+plymouth
+LUKS
+LVM
+ext4
+greetd or gdm? or sddm?
+    tuigreet?
+
+hyprland
+alacritty
+hybridbar - fucking dependencies
+nwg-dmenu
+chromium-bin
+joshuto
+zathura
+thunar
+pfetch
+vscode
+wlogout
+
+
+spotifyd
+spotify-tui
+pipewire
+

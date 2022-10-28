@@ -1,0 +1,7 @@
+#!/bin/bash
+gsettings set org.gnome.desktop.interface gtk-theme 'Nordic-darker-v40'
+gsettings set org.gnome.desktop.wm.preferences theme 'Nordic-darker-v40'
+gsettings set org.gnome.desktop.interface icon-theme 'Boston'
+gsettings set org.gnome.desktop.interface document-font-name 'Noto Sans'
+gsettings set org.gnome.desktop.interface font-name 'Noto Sans'
+gsettings set org.gnome.desktop.interface monospace-font-name 'ProFontWindows Nerd Font Mono'
